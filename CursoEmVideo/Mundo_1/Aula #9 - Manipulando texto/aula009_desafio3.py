@@ -2,4 +2,4 @@
 SANTO'''
 
 cidade = str(input('Qual o seu nome? '))
-print(cidade[:7] == 'Heloísa')
+print(cidade[:5] == 'Santo')
