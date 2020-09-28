@@ -1,5 +1,5 @@
 # Welcome to PythonExercises!!
-## Here in my first exercises. Since the Hello Word!
+## Here are my first exercises. Since the Hello Word!
 
 - These exercises are from Curso em Vídeo classes, with Gustavo Guanabara.
 
