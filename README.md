@@ -7,8 +7,8 @@ Website: [Curso em Vídeo](http://cursoemvideo.com/)
 
 Youtube Channel: [Curso em Vídeo - YouTube](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
-![Curso em Vídeo Logo](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
-![Python Logo](https://cafeinacodificada.com.br/wp-content/uploads/2018/04/Post1_pt21.png)
+![Curso em Vídeo Logo](https://github.com/heloisaldanha/PythonExercises/blob/master/cursoemvideo-logo.png)
+![Python Logo](https://github.com/heloisaldanha/PythonExercises/blob/master/python.png)
 
 
 
